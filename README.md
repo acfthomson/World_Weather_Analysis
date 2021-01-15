@@ -27,4 +27,12 @@ Weather data retrieved can be found here:
 
 # Vacation Search
 This folder contains data that was obtained via the weather database that was previoulsy created and uses the Google Maps API to plot potential travel locations based on the user's input for minimum and maximum temperature.  This graphic shows travel destinations between 75 and 90 degrees fahrenheit:
+[Weather-Py-vacation-map.png](https://postimg.cc/t13P12fn)
 
+
+# Vacation Itinerary
+The Google Directions API was used to create a travel itinerary that shows the route between four cities from the user's selected travel destinations.
+[Weather-Py-travel-map.png](https://postimg.cc/ZCzSHHD5)
+
+A map displaying pop-up markers was created that showed hotel name, city, country, weather description, and maximim temperature for the selected travel destinations along the user's route.
+[Weather-Py-travel-map-markers.png](https://postimg.cc/wRhnnKbT)
