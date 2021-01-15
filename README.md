@@ -22,7 +22,7 @@ Beta testers for the fictional app "PlanMyTrip" gave positive reviews, but recom
 This folder contains information from 740 countries that was retrieved with the OpenWeatherMap API.  The weather information consists of maximum temperatire, humidity, cloudiness, wind speed, country, date, and weather description.  The amount of information provided will allow app users to make an informed decision regarding their travel plans.  
 
 Weather data retrieved can be found here:
-- [WeatherPy_Database.csv](https://github.com/acfthomson/World_Weather_Analysis/Weather_Database)
+- [WeatherPy_Database.csv](https://github.com/acfthomson/World_Weather_Analysis/tree/main/Weather_Database)
 
 
 # Vacation Search
