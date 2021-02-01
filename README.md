@@ -17,7 +17,6 @@ Beta testers for the fictional app "PlanMyTrip" gave positive reviews, but recom
       - Google Maps JavaScript
       - Google Directions
       
- ## Overview
  # Weather Database
 This folder contains information from 740 countries that was retrieved with the OpenWeatherMap API.  The weather information consists of maximum temperatire, humidity, cloudiness, wind speed, country, date, and weather description.  The amount of information provided will allow app users to make an informed decision regarding their travel plans.  
 
